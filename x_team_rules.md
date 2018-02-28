@@ -17,7 +17,7 @@ someone else steps up and they switch tasks.
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+We will use a groupchat to communicate minor difficulties, and if a meeting in person is required for the task, we will use the groupchat to coordinate a meeting place / time.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
