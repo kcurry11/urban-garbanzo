@@ -4,7 +4,7 @@
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * GitHub username 1: MasalaMunch
-       * GitHub username 2: Kyle Curry
+       * GitHub username 2: kcurry11
        * GitHub username 3: adallman2
        * GitHub username 4: MayaCherry1
        * GitHub username 5:
