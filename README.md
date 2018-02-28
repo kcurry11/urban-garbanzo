@@ -6,7 +6,7 @@
        * GitHub username 1: MasalaMunch
        * GitHub username 2: Kyle Curry
        * GitHub username 3: adallman2
-       * GitHub username 4:
+       * GitHub username 4: MayaCherry1
        * GitHub username 5:
    * When did you complete this exercise? Feburary 28, 2018
    * How long did it take your team to complete this exercise? 
