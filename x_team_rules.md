@@ -13,7 +13,7 @@ Vollenteer, then process of elemination for assign. Then if someone drops out of
 someone else steps up and they switch tasks.
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+Check in through group me to make sure everyone completes their portion within a reasonable time. Create a spreadsheet on google docs to make sure everyone knows what they are responsible for completing. Weekly meetings if we are in the middle of a project to make sure everyone knows how to do what they are supposed to be doing.
 
 
 ## How will will communicate difficulties with a task assigned to us
