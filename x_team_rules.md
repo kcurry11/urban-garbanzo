@@ -21,7 +21,7 @@ someone else steps up and they switch tasks.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Use Git to share code and have other team members contribute.
 
 
 
